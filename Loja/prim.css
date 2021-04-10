@@ -1,0 +1,35 @@
+header{
+    display: block;
+    background-image: url("./imagens/LogoCOM_Topo.png");
+    height: 200px;
+    background-repeat: no-repeat;
+    margin-left: 500px;
+}
+section{
+    background-image:url("./imagens/LogoCOM.png");
+    height: 300px;
+    background-repeat: no-repeat;
+    margin-left: 400px
+}
+
+footer{
+
+}
+
+h5{
+    text-align: center;
+  
+}
+nav{
+    display: block;
+    text-align: center;
+    margin: 0;
+}
+
+ul{
+    list-style: none;
+}
+li{
+    display: inline;
+    margin-left: 20px;
+}
