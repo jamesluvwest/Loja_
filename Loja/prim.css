@@ -32,4 +32,14 @@ ul{
 li{
     display: inline;
     margin-left: 20px;
+    
 }
+a{
+    color: #FFFF00;
+    text-decoration:none;
+}
+a:visited{
+    color:#EEEE00
+}
+
+
