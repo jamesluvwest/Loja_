@@ -4,3 +4,11 @@ img{
 body{
     background-color: #551177;
 }
+
+li{
+    list-style: url("./imagens/Seta18.png");
+}
+
+.imgs{
+    margin-left: 500px;
+}
